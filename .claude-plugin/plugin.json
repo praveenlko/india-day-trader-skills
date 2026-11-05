@@ -1,0 +1,18 @@
+{
+  "name": "india-day-trader-skills",
+  "description": "Nine Claude skills for intraday trading on the NSE (IST, rupees, .NS symbols), adapted from Jakeschincariol/day-trader-skill (MIT). Nothing places an order.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Adapted for NSE from Jake Schincariol's day-trader-skill"
+  },
+  "license": "MIT",
+  "keywords": [
+    "claude-skills",
+    "nse",
+    "india",
+    "intraday",
+    "opening-range-breakout",
+    "paper-trading"
+  ],
+  "skills": "./"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "india-day-trader-skills",
+  "description": "India (NSE) day-trading skill pack for Claude",
+  "owner": {
+    "name": "Local"
+  },
+  "plugins": [
+    {
+      "name": "india-day-trader-skills",
+      "description": "Nine skills: NSE chart scanner, news, entry timer, exit planner, time machine, budget, risk, order ticket (manual), alerts.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
